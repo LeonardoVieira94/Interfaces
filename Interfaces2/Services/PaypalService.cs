@@ -10,10 +10,15 @@ namespace Interfaces2.Services
         public PaypalService() 
         {
         }
-        public double Tax(double initialAmount, int installment)
+
+        public double PaymentFee(double amount)
         {
-            double initialTax = initialAmount + (initialAmount * MonthlyInterest * installment);
-            return initialTax + initialTax * FeePercentage;
+            return amount + FeePercentage * amount;
+        }
+        public double Interest(double initialAmount, int installment)
+        {
+            return initialAmount + (initialAmount * MonthlyInterest * installment);
+   
         }
     }
 }

@@ -19,7 +19,8 @@ namespace Interfaces2.Services
 
             for (int i = 1; i <= Installments; i++)
             {
-                double amount = _taxService.Tax(initialAmount, i);
+                double interest = _taxService.Interest(initialAmount, i);
+                double amount = _taxService.PaymentFee(interest);
                 DateTime dueDate = contract.Date.AddMonths(i);
                 Installment installment = new Installment(dueDate, amount);
                 contract.AddContract(installment);

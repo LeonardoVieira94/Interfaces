@@ -4,6 +4,7 @@ namespace Interfaces2.Services
 {
     internal interface ITaxService
     {
-        double Tax(double initialAmount, int month);
+        double PaymentFee(double initialAmount);
+        double Interest(double initialAmount, int Installment);
     }
 }

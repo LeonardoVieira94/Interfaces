@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "G:\\projetos\\Interfaces2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\services\\installmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\services\\installmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|solutionrelative:interfaces2\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BD93B03-D495-435C-A485-5B51D0264C23}|Interfaces2\\Interfaces2.csproj|g:\\projetos\\interfaces2\\interfaces2\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,43 +34,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "InstallmentService.cs",
               "DocumentMoniker": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\InstallmentService.cs",
               "RelativeDocumentMoniker": "Interfaces2\\Services\\InstallmentService.cs",
               "ToolTip": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\InstallmentService.cs",
               "RelativeToolTip": "Interfaces2\\Services\\InstallmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T12:32:30.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PaypalService.cs",
               "DocumentMoniker": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\PaypalService.cs",
               "RelativeDocumentMoniker": "Interfaces2\\Services\\PaypalService.cs",
               "ToolTip": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\PaypalService.cs",
               "RelativeToolTip": "Interfaces2\\Services\\PaypalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T02:24:07.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ITaxService.cs",
               "DocumentMoniker": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\ITaxService.cs",
               "RelativeDocumentMoniker": "Interfaces2\\Services\\ITaxService.cs",
               "ToolTip": "G:\\projetos\\Interfaces2\\Interfaces2\\Services\\ITaxService.cs",
               "RelativeToolTip": "Interfaces2\\Services\\ITaxService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T02:11:57.056Z",
               "EditorCaption": ""
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Installment.cs",
               "DocumentMoniker": "G:\\projetos\\Interfaces2\\Interfaces2\\Entities\\Installment.cs",
               "RelativeDocumentMoniker": "Interfaces2\\Entities\\Installment.cs",
@@ -102,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\projetos\\Interfaces2\\Interfaces2\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces2\\Program.cs",
               "ToolTip": "G:\\projetos\\Interfaces2\\Interfaces2\\Program.cs",
               "RelativeToolTip": "Interfaces2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T20:53:11.418Z",
               "EditorCaption": ""
